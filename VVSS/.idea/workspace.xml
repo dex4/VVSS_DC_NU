@@ -2,39 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="270f8e6d-512a-4406-b989-51948f8a2a98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorizareTemeLaboratorV04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MonitorizareTemeLaboratorV04.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Domain/Domain.plantuml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Domain/Domain.plantuml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Domain/Nota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Domain/Nota.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Domain/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Domain/Teme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Domain/Teme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Domain/hasID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Domain/hasID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repository/AbstractRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Repository/AbstractRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repository/CrudRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Repository/CrudRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repository/NoteRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Repository/NoteRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repository/Repository.plantuml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Repository/Repository.plantuml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repository/StudentRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Repository/StudentRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repository/TemeRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Repository/TemeRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Service/Service.plantuml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Service/Service.plantuml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Service/ServiceNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Service/ServiceNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Service/ServiceStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Service/ServiceStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Service/ServiceTeme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Service/ServiceTeme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UI/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI/UI.plantuml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UI/UI.plantuml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Validator/NotaValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Validator/NotaValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Validator/StudentValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Validator/StudentValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Validator/TemeValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Validator/TemeValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Validator/ValidationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Validator/ValidationException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Validator/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Validator/Validator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Validator/Validator.plantuml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Validator/Validator.plantuml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src.plantuml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src.plantuml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/studenti.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/studenti.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/teme.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="UML Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,7 +37,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550873829565" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -111,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1550873234484</updated>
       <workItem from="1550873237475" duration="598000" />
-      <workItem from="1584541953462" duration="1158000" />
+      <workItem from="1584541953462" duration="1684000" />
     </task>
     <servers />
   </component>
