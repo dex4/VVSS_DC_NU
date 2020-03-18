@@ -49,5 +49,6 @@ public class Student implements hasID<String> {
     public boolean equals(Object object2) {
         return object2 instanceof Student && this.email==((Student) object2).email && this.grupa==((Student) object2).grupa && this.idStudent==((Student) object2).idStudent && this.nume==((Student) object2).nume && this.profesor==((Student) object2).profesor;
     }
+
 }
 
